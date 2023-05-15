@@ -1,0 +1,15 @@
+.navbar{
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkblue;
+}
+
+.navbar p{
+    font-size: 64px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    color: white;
+}
